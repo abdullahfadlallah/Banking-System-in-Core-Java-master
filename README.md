@@ -62,7 +62,7 @@ The following instructions will guide you through the installation and setup pro
    ```
 2. Clone the GitHub repository containing the project files:
    ```bash
-   git clone https://github.com/your-repository/banking-system-java
+   git clone  https://github.com/abdullahfadlallah/Banking-System-in-Core-Java-master.git
    ```
 3. Compile the Java source files:
    ```bash
